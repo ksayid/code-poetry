@@ -1,4 +1,5 @@
 from us import you, I
+import time
 
 if you.feel == 'alone and in the dark':
     I.will = 'be your light'
@@ -21,5 +22,6 @@ while I.together(you):
     print(" "*7, "=======''===''=========''===''=======")
     print(" "*7, '         |||             |||         ')
     print(" "*7, '                #KS4CR               ')
+    time.sleep(2.4)
     print(" "*24)#tomorrow ^^
     
