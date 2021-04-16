@@ -22,6 +22,6 @@ while I.together(you):
     print(" "*7, "=======''===''=========''===''=======")
     print(" "*7, '         |||             |||         ')
     print(" "*7, '                #KS4CR               ')
-    time.sleep(2.4)
+    time.sleep(8) #8hrs
     print(" "*24)#tomorrow ^^
     
